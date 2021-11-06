@@ -101,7 +101,9 @@
   <tr>
 	    <td><a href="https://github.com/mr-vk10/memory-game-1"><b>Memory Game - 1</b></a></td>
   </tr>
-
+  <tr>
+	    <td><a href="https://github.com/mr-vk10/memory-game-2"><b>Memory Game - 2</b></a></td>
+  </tr>
   </tbody>	 
 </table>
 
