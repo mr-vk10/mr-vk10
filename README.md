@@ -95,14 +95,21 @@
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
+      <td><b>🛠 Language/Tools</b></td>
     </tr>
   </thead>
   <tbody>
   <tr>
 	    <td><a href="https://github.com/mr-vk10/memory-game-1"><b>Memory Game - 1</b></a></td>
+	    <td><b>HTML, CSS, JS, Bootstrap</b></td>
   </tr>
   <tr>
 	    <td><a href="https://github.com/mr-vk10/memory-game-2"><b>Memory Game - 2</b></a></td>
+      <td><b>HTML, CSS, JS, Bootstrap</b></td>
+  </tr>
+  <tr>
+	    <td><a href="https://github.com/mr-vk10/TicTacToe"><b>Tic-Tac-Toe Game</b></a></td>
+      <td><b>Kotlin</b></td>
   </tr>
   </tbody>	 
 </table>
