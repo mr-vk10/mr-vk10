@@ -90,6 +90,12 @@
 
 ---
 
+## 🏆 Achievements and Awards 🏆
+
+| [Elevate Wings 1 Track Completion Award][wings-tech-track-1] for Building Mordern Web Apps at Scale using ReactJS and NodeJS |
+
+---
+
 <h3>👑🔺Most Popular Open-Source Repositories🔺👑</h3>
 <table>
   <thead align="center">
@@ -170,6 +176,10 @@
 
 [tcs]: https://www.tcs.com/
 [technostacks]: https://technostacks.com/
+
+<!-- Achievements and Awards -->
+
+[wings-tech-track-1]: https://drive.google.com/file/d/1SZilqmZKWfuLMRxLbJvFZrHnwXzfFSdz/view?usp=sharing
 
 <!-- Course/Certifications -->
 
