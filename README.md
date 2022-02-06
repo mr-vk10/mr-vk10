@@ -92,11 +92,18 @@
 
 ## 🏆 Achievements and Awards 🏆
 
-| [Elevate Wings 1 Track Completion Award][wings-tech-track-1] for Building Mordern Web Apps at Scale using ReactJS and NodeJS |
+<table>
+  <tbody>
+  <tr>
+	    <td>[Elevate Wings 1 Track Completion Award][wings-tech-track-1] for Building Mordern Web Apps at Scale using ReactJS and NodeJS</td>
+  </tr>
+  </tbody>
+</table>
 
 ---
 
-<h3>👑🔺Most Popular Open-Source Repositories🔺👑</h3>
+## 👑🔺Most Popular Open-Source Repositories🔺👑
+
 <table>
   <thead align="center">
     <tr border: none;>
