@@ -92,6 +92,7 @@
 
 ## 🏆 Achievements and Awards 🏆
 
+|                                                                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------: |
 | [Elevate Wings 1 Track Completion Award][wings-tech-track-1] for Building Mordern Web Apps at Scale using ReactJS and NodeJS |
 
