@@ -93,6 +93,7 @@
 ## 🏆 Achievements and Awards 🏆
 
 | [Elevate Wings 1 Track Completion Award][wings-tech-track-1] for Building Modern Web Apps at Scale using ReactJS and NodeJS |
+| [Star Team Award][star-team-award] |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 
 ---
@@ -182,6 +183,7 @@
 <!-- Achievements and Awards -->
 
 [wings-tech-track-1]: https://drive.google.com/file/d/1SZilqmZKWfuLMRxLbJvFZrHnwXzfFSdz/view?usp=sharing
+[star-team-award]: https://drive.google.com/file/d/12SwylRI-n8rqc4WYDajgDrmS-U19XAJq/view?usp=sharing
 
 <!-- Course/Certifications -->
 
