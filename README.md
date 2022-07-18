@@ -90,7 +90,9 @@
 
 ---
 
-|                                              ## 🏆 Achievements and Awards 🏆                                               |
+## 🏆 Achievements and Awards 🏆
+
+|                                                                                                                             |
 | :-------------------------------------------------------------------------------------------------------------------------: |
 |                                [Gold Medal for best Academic Performance][btech-gold-medal]                                 |
 | [Elevate Wings 1 Track Completion Award][wings-tech-track-1] for Building Modern Web Apps at Scale using ReactJS and NodeJS |
