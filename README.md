@@ -195,5 +195,5 @@
 [tensor-certi]: https://www.coursera.org/account/accomplishments/verify/QZJMJ6B7EJ85
 [os-certi]: https://www.coursera.org/account/accomplishments/verify/5927X45V6EVY
 [git-certi]: https://www.coursera.org/account/accomplishments/verify/78S9DKM6BMPD
-[nptel-java]: https://user-images.githubusercontent.com/56977021/138568941-24b019f0-2e82-4082-9bd3-607f218b5a71.jpg
+[nptel-java]: https://user-images.githubusercontent.com/56977021/201480682-325400a2-7e2f-4538-812b-0946312ce393.jpg
 [cdac-certi]: https://user-images.githubusercontent.com/56977021/138568861-34110664-c25d-4ea6-a0da-402e332701a5.PNG
