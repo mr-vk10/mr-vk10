@@ -111,6 +111,10 @@
   </thead>
   <tbody>
   <tr>
+	    <td><a href="https://github.com/mr-vk10/mcdiffy-ecommerce-app"><b>McDiffy Ecommerce App</b></a></td>
+	    <td><b>Java, Spring Boot</b></td>
+  </tr>
+  <tr>
 	    <td><a href="https://github.com/mr-vk10/memory-game-1"><b>Memory Game - 1</b></a></td>
 	    <td><b>HTML, CSS, JS, Bootstrap</b></td>
   </tr>
