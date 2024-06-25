@@ -1,4 +1,4 @@
-### Vanakkam, I'm Vishal Karkera - aka [silver_sky][codechef] 👋
+### Hi, I'm Vishal Karkera 👋
 
 ## I'm a Developer!!
 
@@ -11,6 +11,7 @@
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGZKGGJ75S72g/company-logo_200_200/0/1629754938156?e=2159024400&v=beta&t=IBmR7Q39iR_z3FiY6IcQlprM2MrTQxERxe2S1B1GY_M" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="LeetCode" width="30px" src="https://github.com/mr-vk10/spring-and-hibernate-for-beginners/assets/56977021/d04e2f1e-6f66-40f7-a214-6f1d9df56fba" />][leetcode]
 
 <br />
 
@@ -138,6 +139,7 @@
 [instagram]: https://instagram.com/karkeravishal
 [linkedin]: https://www.linkedin.com/in/vishal-karkera-40194691/
 [codechef]: https://www.codechef.com/users/silver_sky
+[leetcode]: https://leetcode.com/u/Vishal_Karkera/
 
 <!-- LANGUAGES -->
 
