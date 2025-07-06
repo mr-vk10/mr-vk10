@@ -1,11 +1,12 @@
 ### Hi, I'm Vishal Karkera 👋
 
-## I'm a Developer!!
+## Developer | Problem Solver | Cloud Enthusiast
 
-- 🏢 I'm currently working as a Java Developer in IBM.
-- 🔭 My current focus is improving my problem solving muscle using DSA.
-- 🌱 I’m currently learning ML Algos.
-- ⚡ Fun fact: I like driving, chess, videogames and procrastinating.
+- 🏢 Currently working as a Java Developer at IBM.
+- 🌱 Actively diving deeper into Spring Boot and AWS Cloud Services
+- 🔭 Focused on sharpening problem-solving skills through Data Structures & Algorithms.
+- 🎯 Always eager to learn and build impactful backend systems
+- ⚡ Fun fact: I enjoy working out, driving, playing chess, gaming, binge-watching and occasionally procrastinating😅.
 
 ### Connect with me:
 
