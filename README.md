@@ -2,7 +2,7 @@
 
 ## I'm a Developer!!
 
-- 🏢 I'm currently working as a Java Developer in TCS.
+- 🏢 I'm currently working as a Java Developer in IBM.
 - 🔭 My current focus is improving my problem solving muscle using DSA.
 - 🌱 I’m currently learning ML Algos.
 - ⚡ Fun fact: I like driving, chess, videogames and procrastinating.
