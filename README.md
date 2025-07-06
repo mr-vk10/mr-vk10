@@ -22,7 +22,7 @@
 ### Languages:
 
 <p>
-<img src="https://user-images.githubusercontent.com/56977021/138315498-528399d9-ded5-4e83-b972-41cc78d9e0b8.png" height="30"/>
+<img src="https://user-images.githubusercontent.com/56977021/138315498-528399d9-ded5-4e83-b972-41cc78d9e0b8.png" height="30" width="30"/>
 <img src="https://user-images.githubusercontent.com/56977021/138318676-04ddfcc7-3ab4-4fba-a7ba-ddd743d7705e.png" height="30"/>
 <img src="https://user-images.githubusercontent.com/56977021/138323146-a994b0a6-d746-4f21-914d-b3068d3ad0b4.png" height="30"/>
 <img src="https://user-images.githubusercontent.com/56977021/138315503-c4ffca61-0f7a-4861-8c0b-28fcf9e0e542.png" height="30"/>
